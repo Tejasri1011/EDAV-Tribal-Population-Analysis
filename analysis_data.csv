@@ -1,0 +1,296 @@
+State_Code,ST_Code,Tribe,Residence,Population,Male_Population,Female_Population,Age_0_6,Literate,Total_Workers,Main_Workers,State,Region,Literacy_Rate,Sex_Ratio
+28,500,All Schedule Tribes,Total,5918073,2969362,2948711,770975,2532727,3208051,2565865,Andhra Pradesh,South,49.21,993.05
+28,501,"Andh, Sadhu Andh",Total,13197,6604,6593,2041,6071,7003,6111,Andhra Pradesh,South,54.42,998.33
+28,502,Bagata,Total,133427,65333,68094,15247,60478,76907,54010,Andhra Pradesh,South,51.17,1042.26
+28,503,Bhil,Total,604,297,307,83,297,283,268,Andhra Pradesh,South,57.01,1033.67
+28,504,Chenchu,Total,64227,32196,32031,11302,21509,34405,27318,Andhra Pradesh,South,40.64,994.88
+28,505,"Gadabas, Bodo Gadaba, Gutob Gadaba, Kallayi Gadaba, Parangi Gadaba, Kathera Gadaba, Kapu Gadaba",Total,38081,18518,19563,3888,16327,22348,16209,Andhra Pradesh,South,47.75,1056.43
+28,506,"Gond, Naikpod, Rajgond, Koitur",Total,304537,150193,154344,37301,131754,173769,141194,Andhra Pradesh,South,49.3,1027.64
+28,507,Goudu (in the Agency tracts)a,Total,7061,3466,3595,1054,2512,4069,3119,Andhra Pradesh,South,41.82,1037.22
+28,508,Hill Reddis,Total,413,216,197,42,243,204,180,Andhra Pradesh,South,65.5,912.04
+28,509,Jatapus,Total,126839,60905,65934,13643,55802,73988,53780,Andhra Pradesh,South,49.3,1082.57
+28,510,Kammara,Total,54163,26572,27591,5837,25950,31809,21667,Andhra Pradesh,South,53.7,1038.35
+28,511,Kattunayakan,Total,150,76,74,17,72,68,43,Andhra Pradesh,South,54.14,973.68
+28,512,"Kolam, Kolawar",Total,44912,22534,22378,6972,14805,25440,19376,Andhra Pradesh,South,39.02,993.08
+28,513,"Konda Dhoras, Kubi",Total,211089,104283,106806,25031,85154,122482,85356,Andhra Pradesh,South,45.77,1024.19
+28,514,Konda Kapus,Total,12625,6331,6294,1365,7662,6297,4718,Andhra Pradesh,South,68.05,994.16
+28,515,Kondareddis,Total,107747,53244,54503,13128,52146,63030,47551,Andhra Pradesh,South,55.11,1023.65
+28,516,"Kondhs, Kodi, Kodhu, Desaya Kondhs, Dongria Kondhs,  Kuttiya Kondhs,  Tikiria Kondhs,  Yenity Kondhs, Kuvinga",Total,103290,50800,52490,18171,25299,60383,42903,Andhra Pradesh,South,29.72,1033.27
+28,517,"Kotia, Bentho Oriya, Bartika,  Dulia,  Holva, Sanrona,  Sidhopaiko",Total,45665,22294,23371,5673,19870,25478,16111,Andhra Pradesh,South,49.68,1048.31
+28,518,"Koya, Doli Koya, Gutta Koya, Kammara Koya, Musara Koya, Oddi Koya, Pattidi Koya, Rajah, Rasha Koya,  Lingadhari Koya (ordinary),  Kottu Koya,  Bhine Koya,  Rajkoya",Total,590739,289025,301714,62378,283498,345471,277119,Andhra Pradesh,South,53.66,1043.9
+28,519,Kulia,Total,675,360,315,74,311,372,269,Andhra Pradesh,South,51.75,875.0
+28,520,"Malis (excluding Adilabad,  Hyderabad,  Karimnagar,  Khammam,  Mahbubnagar,  Medak,  Nalgonda,  Nizamabad and Warangal districts)",Total,5293,2590,2703,655,2066,2907,2279,Andhra Pradesh,South,44.55,1043.63
+28,521,Manna Dhora,Total,18029,8845,9184,1909,8393,9884,7018,Andhra Pradesh,South,52.07,1038.33
+28,522,"Mukha Dhora, Nooka Dhora",Total,42420,20735,21685,5801,13183,25899,18436,Andhra Pradesh,South,36.0,1045.82
+28,523,Nayaks (in the Agency tracts)a,Total,8236,4070,4166,815,4081,4882,4265,Andhra Pradesh,South,54.99,1023.59
+28,524,Pardhan,Total,24823,12477,12346,2579,14726,11839,9271,Andhra Pradesh,South,66.2,989.5
+28,525,"Porja, Parangiperja",Total,36502,17741,18761,5278,10924,21363,15842,Andhra Pradesh,South,34.99,1057.49
+28,526,Reddi Dhoras,Total,980,497,483,102,390,554,438,Andhra Pradesh,South,44.42,971.83
+28,527,"Rona, Rena",Total,1084,546,538,137,605,430,358,Andhra Pradesh,South,63.89,985.35
+28,528,"Savaras, Kapu Savaras, Maliya Savaras,  Khutto Savaras",Total,139424,68432,70992,17115,60838,76191,46641,Andhra Pradesh,South,49.74,1037.41
+28,529,"Sugalis, Lambadis, Banjara",Total,2407637,1231006,1176631,332870,1016759,1243028,1059245,Andhra Pradesh,South,49.01,955.83
+28,530,"Thoti (in Adilabad,  Hyderabad,  Karimnagar,  Khammam,  Mahbubnagar,  Medak,  Nalgonda,  Nizamabad and Warangal districts)",Total,4811,2308,2503,552,2672,2409,1945,Andhra Pradesh,South,62.74,1084.49
+28,531,"Valmiki (in the Scheduled Areas of Vishakhapatnam, Srikakulam, Vijayanagaram, East Godavari and West Godavari districts)",Total,70513,34060,36453,7497,42214,37085,25639,Andhra Pradesh,South,66.99,1070.26
+28,532,"Yenadis, Chella Yenadi, Kappala Yenadi, Manchi Yenadi, Reddi Yenadi",Total,537808,272203,265605,73458,189323,312053,246197,Andhra Pradesh,South,40.77,975.76
+28,533,"Yerukulas, Koracha, Dabba Yerukula, Kunchapuri Yerukula, Uppu Yerukula",Total,519337,259169,260168,66111,249916,258051,215107,Andhra Pradesh,South,55.14,1003.85
+28,534,"Nakkala, Kurvikaran",Total,5733,2836,2897,975,1347,2937,2593,Andhra Pradesh,South,28.31,1021.51
+28,535,"Dhulia, Paiko, Putiya (in the districts of Vishakhapatnam and Vijayanagaram)",Total,665,319,346,90,318,350,204,Andhra Pradesh,South,55.3,1084.64
+18,500,All Schedule Tribes,Total,3884371,1957005,1927366,548432,2403972,1708763,1126249,Assam,Northeast,72.06,984.85
+18,501,Chakma,Total,2032,1043,989,406,455,859,685,Assam,Northeast,27.98,948.23
+18,502,"Dimasa, Kachari",Total,102961,51832,51129,15792,61094,42207,30946,Assam,Northeast,70.09,986.44
+18,503,Garo,Total,25315,12684,12631,4458,13396,10523,6591,Assam,Northeast,64.23,995.82
+18,504,Hajong,Total,436,223,213,75,240,165,136,Assam,Northeast,66.48,955.16
+18,505,Hmar,Total,15745,7964,7781,2377,12414,6377,5023,Assam,Northeast,92.86,977.02
+18,506,"Khasi, Jaintia, Synteng, Pnar,  War,  Bhoi,  Lyngngam",Total,15936,7916,8020,3339,5408,7260,6059,Assam,Northeast,42.93,1013.14
+18,507,"Any Kuki Tribes,  including:**",Total,33399,17220,16179,5550,23383,13624,10282,Assam,Northeast,83.96,939.55
+18,508,Lakher,Total,37,20,17,9,12,21,14,Assam,Northeast,42.86,850.0
+18,509,Man (Tai speaking),Total,1269,644,625,111,1039,494,405,Assam,Northeast,89.72,970.5
+18,510,Any Mizo (Lushai) tribes,Total,880,419,461,91,745,325,297,Assam,Northeast,94.42,1100.24
+18,511,Karbi,Total,430452,217758,212694,73779,242182,166447,108413,Assam,Northeast,67.9,976.74
+18,512,Any Naga tribes,Total,29767,14905,14862,4706,20225,11328,8334,Assam,Northeast,80.7,997.12
+18,513,Pawi,Total,3,1,2,1,2,1,1,Assam,Northeast,100.0,2000.0
+18,514,Syntheng,Total,5,2,3,2,1,0,0,Assam,Northeast,33.33,1500.0
+18,515,Lalung,Total,18252,9128,9124,3054,8046,8200,5656,Assam,Northeast,52.94,999.56
+18,516,Barmans in Cachar,Total,6716,3398,3318,1076,4284,2875,2110,Assam,Northeast,75.96,976.46
+18,517,"Boro, Borokachari",Total,1361735,682931,678804,171102,840155,589567,404351,Assam,Northeast,70.56,993.96
+18,518,Deori,Total,43750,21938,21812,5165,32127,21553,13305,Assam,Northeast,83.26,994.26
+18,519,Hojai,Total,642,327,315,105,330,334,277,Assam,Northeast,61.45,963.3
+18,520,"Kachari, Sonwal",Total,253344,127692,125652,28747,191891,112386,70381,Assam,Northeast,85.44,984.02
+18,521,Lalung,Total,182663,91340,91323,24298,116146,80892,51432,Assam,Northeast,73.34,999.81
+18,522,Mech,Total,9883,4968,4915,1204,7611,4093,2614,Assam,Northeast,87.69,989.33
+18,523,Miri,Total,680424,345786,334638,112863,393130,324858,197407,Assam,Northeast,69.27,967.76
+18,524,Rabha,Total,296189,148887,147302,36007,195342,139662,92488,Assam,Northeast,75.08,989.35
+18,525,Dimasa,Total,19702,9738,9964,2403,14640,7666,5064,Assam,Northeast,84.63,1023.21
+18,526,Hajong,Total,34253,17385,16868,4900,18000,15706,10900,Assam,Northeast,61.32,970.26
+18,527,Singhpho,Total,2342,1175,1167,253,1792,1073,709,Assam,Northeast,85.78,993.19
+18,528,Khampti,Total,1106,566,540,106,859,562,349,Assam,Northeast,85.9,954.06
+18,529,Garo,Total,136077,68594,67483,22653,86844,57050,37654,Assam,Northeast,76.57,983.8
+27,500,All Schedule Tribes,Total,10510213,5315025,5195188,1553366,5887161,5323325,4379403,Maharashtra,West,65.73,977.45
+27,501,Andh,Total,474110,243300,230810,69568,294619,243613,216997,Maharashtra,West,72.83,948.66
+27,502,Baiga,Total,333,195,138,52,194,194,160,Maharashtra,West,69.04,707.69
+27,503,Barda,Total,1247,628,619,172,760,503,479,Maharashtra,West,70.7,985.67
+27,504,"Bavacha, Bamcha",Total,345,186,159,42,221,188,163,Maharashtra,West,72.94,854.84
+27,505,Bhaina,Total,270,148,122,30,196,114,103,Maharashtra,West,81.67,824.32
+27,506,"Bharia Bhumia, Bhuinhar Bhumia,  Pando",Total,1348,750,598,156,955,573,518,Maharashtra,West,80.12,797.33
+27,507,Bhattra,Total,66,31,35,11,38,28,28,Maharashtra,West,69.09,1129.03
+27,508,"Bhil, Bhil Garasia, Dholi Bhil,  Dungri Bhil,  Dungri Garasia,  Mewasi Bhil,  Rawal Bhil,  Tadvi Bhil,  Bhagalia,  Bhilala,  Pawra,  Vasava,  Vasave",Total,2588659,1306793,1281866,460973,1120155,1349147,1169096,Maharashtra,West,52.65,980.93
+27,509,Bhunjia,Total,2136,1155,981,304,1657,730,644,Maharashtra,West,90.45,849.35
+27,510,Binjhwar,Total,8567,4256,4311,965,5398,4714,3342,Maharashtra,West,71.01,1012.92
+27,511,"Birhul, Birhor",Total,145,90,55,18,84,75,52,Maharashtra,West,66.14,611.11
+27,512,"Dhanka, Tadvi, Tetaria, Valvi",Total,35104,17969,17135,5261,19384,16807,13473,Maharashtra,West,64.95,953.59
+27,513,Dhanwar,Total,4094,2125,1969,538,2821,1744,1561,Maharashtra,West,79.33,926.59
+27,514,Dhodia,Total,17520,8652,8868,1733,12434,7925,6687,Maharashtra,West,78.76,1024.97
+27,515,"Dubla, Talavia, Halpati",Total,18697,9204,9493,2066,11489,9245,8324,Maharashtra,West,69.08,1031.4
+27,516,"Gamit, Gamta, Gavit, Mavchi,  Padvi",Total,67796,33911,33885,7999,35139,37939,34448,Maharashtra,West,58.76,999.23
+27,517,"Gond,  Rajgond, Arakh, Arrakh, Agaria, Asur, Badi Maria , Bada Maria, Bhatola,  Bhimma, Bhuta, Koilabhuta, Koilabhuti, Bhar, Bisonhorn Maria, Chota Maria, Dandami Maria,  Dhuru, Dhurwa, Dhoba, Dhulia, Dorla, Gaiki, Gatta, Gatti, Gaita, Gond Gowari, Hill Maria, Kandra, Kalanga, Khatola, Koitar, Koya,  Khirwar, Khirwara, Kucha Maria,  Kuchaki Maria,  Madia, Maria,  Mana,  Mannewar, Moghya, Mogia,  Monghya, Mudia, Muria, Nagarchi, Naikpod, Nagwanshi,  Ojha,  Raj, Sonjhari Jhareka,  Thatia,  Thotya,  Wade Maria, Vade Maria  ",Total,1618090,818955,799135,182363,1072282,870434,653843,Maharashtra,West,74.69,975.8
+27,518,"Halba, Halbi",Total,261011,132245,128766,26885,206183,107665,85278,Maharashtra,West,88.06,973.69
+27,519,Kamar,Total,1391,793,598,156,1024,619,538,Maharashtra,West,82.91,754.1
+27,520,"Kathodi, Katkari, Dhor Kathodi,  Dhor Kathkari,  Son Kathodi,  Son Katkari",Total,285334,142619,142715,52105,97204,147347,102808,Maharashtra,West,41.68,1000.67
+27,521,"Kawar, Kanwar, Kaur, Cherwa,  Rathia,  Tanwar,  Chattri",Total,26354,13697,12657,3251,17743,13892,9202,Maharashtra,West,76.8,924.07
+27,522,Khairwar,Total,1843,1107,736,275,1186,836,762,Maharashtra,West,75.64,664.86
+27,523,Kharia,Total,745,370,375,96,499,337,270,Maharashtra,West,76.89,1013.51
+27,524,"Kokna, Kokni, Kukna",Total,687431,346001,341430,91742,420160,363323,316707,Maharashtra,West,70.53,986.79
+27,525,Kol,Total,6874,3548,3326,771,4373,3189,2327,Maharashtra,West,71.65,937.43
+27,526,"Kolam, Mannervarlu",Total,194671,98319,96352,22368,122583,104412,89812,Maharashtra,West,71.14,979.99
+27,527,"Koli Dhor, Tokre Koli, Kolcha,  Kolgha",Total,220074,112666,107408,29183,143518,108459,93920,Maharashtra,West,75.18,953.33
+27,528,"Koli Mahadev, Dongar Koli",Total,1459565,742439,717126,200039,939713,703362,614305,Maharashtra,West,74.61,965.91
+27,529,Koli Malhar,Total,282868,141698,141170,41552,157634,136545,104507,Maharashtra,West,65.32,996.27
+27,530,"Kondh, Khond, Kandh",Total,515,272,243,77,344,242,220,Maharashtra,West,78.54,893.38
+27,531,"Korku, Bopchi, Mouasi, Nihal,  Nahul,  Bondhi,  Bondeya",Total,264492,134931,129561,39414,165218,129526,102130,Maharashtra,West,73.4,960.2
+27,532,"Koya, Bhine Koya, Rajkoya",Total,388,209,179,40,299,149,132,Maharashtra,West,85.92,856.46
+27,533,"Nagesia, Nagasia",Total,133,75,58,17,94,59,47,Maharashtra,West,81.03,773.33
+27,534,"Naikda, Nayaka, Cholivala Nayaka,  Kapadia Nayaka,  Mota Nayaka, Nana Nayaka",Total,22307,11717,10590,3201,13582,11581,10181,Maharashtra,West,71.09,903.81
+27,535,"Oraon, Dhangad",Total,43060,22943,20117,5614,29754,17938,15180,Maharashtra,West,79.46,876.83
+27,536,"Pardhan, Pathari, Saroti",Total,145131,73575,71556,14466,106047,73347,58859,Maharashtra,West,81.16,972.56
+27,537,"Pardhi, Advichincher, Phans Pardhi,  Phanse Pardhi,  Langoli Pardhi,  Bahelia,  Bahellia,  Chita Pardhi,  Shikari,  Takankar,  Takia",Total,223527,113380,110147,37410,119203,102957,89832,Maharashtra,West,64.05,971.49
+27,538,Parja,Total,315,184,131,23,227,136,133,Maharashtra,West,77.74,711.96
+27,539,Patelia,Total,2574,1372,1202,284,1945,1154,1013,Maharashtra,West,84.93,876.09
+27,540,Pomla,Total,44,26,18,4,31,18,18,Maharashtra,West,77.5,692.31
+27,541,Rathawa,Total,488,262,226,103,172,181,171,Maharashtra,West,44.68,862.6
+27,542,"Sawar, Sawara",Total,348,206,142,50,243,175,154,Maharashtra,West,81.54,689.32
+27,543,"Thakur, Thakar, Ka Thakur,  Ka Thakar,  Ma Thakur,  Ma Thakar",Total,567968,287764,280204,87323,300263,278952,225489,Maharashtra,West,62.47,973.73
+27,544,Varli,Total,796245,394144,402101,140328,353722,386339,277126,Maharashtra,West,53.93,1020.19
+27,545,"Vitolia, Kotwalia, Barodia",Total,448,228,220,69,238,202,180,Maharashtra,West,62.8,964.91
+20,500,All Schedule Tribes,Total,8645042,4315407,4329635,1466933,4101010,4058020,1874577,Jharkhand,East,57.13,1003.3
+20,501,"Asur, Agaria",Total,22459,11473,10986,4705,8331,10659,5381,Jharkhand,East,46.92,957.55
+20,502,Baiga,Total,3582,1829,1753,751,1040,1665,427,Jharkhand,East,36.74,958.45
+20,503,Banjara,Total,487,242,245,95,158,190,112,Jharkhand,East,40.31,1012.4
+20,504,Bathudi,Total,3464,1754,1710,487,1524,1731,820,Jharkhand,East,51.19,974.91
+20,505,Bedia,Total,100161,50207,49954,15331,49236,42834,23537,Jharkhand,East,58.04,994.96
+20,506,Binjhia,Total,14404,7320,7084,2088,6939,7388,4004,Jharkhand,East,56.34,967.76
+20,507,Birhor,Total,10726,5472,5254,2519,2832,5089,2168,Jharkhand,East,34.51,960.16
+20,508,Birjia,Total,6276,3174,3102,1312,2492,3112,1401,Jharkhand,East,50.2,977.32
+20,509,Chero,Total,95575,48860,46715,16881,50031,36451,12175,Jharkhand,East,63.58,956.1
+20,510,Chik Baraik,Total,54163,27126,27037,8143,29667,25855,14290,Jharkhand,East,64.47,996.72
+20,511,Gond,Total,53676,26925,26751,8400,27090,25269,13502,Jharkhand,East,59.83,993.54
+20,512,Gorait,Total,4973,2527,2446,845,2560,2163,1118,Jharkhand,East,62.02,967.95
+20,513,Ho,Total,928289,459209,469080,176764,405842,425883,200838,Jharkhand,East,54.0,1021.5
+20,514,Karmali,Total,64154,33203,30951,10489,33487,23822,12649,Jharkhand,East,62.4,932.17
+20,515,"Kharia, Dhelki Kharia, Dudh Kharia, Hill Kharia",Total,196135,97139,98996,30385,109168,99301,52636,Jharkhand,East,65.86,1019.12
+20,516,Kharwar,Total,248974,126763,122211,50271,112150,109938,36300,Jharkhand,East,56.44,964.09
+20,517,Khond,Total,221,114,107,32,118,103,46,Jharkhand,East,62.43,938.6
+20,518,"Kisan, Nagesia",Total,37265,18880,18385,6933,15018,20043,8191,Jharkhand,East,49.51,973.78
+20,519,"Kora, Mudi -Kora",Total,32786,16487,16299,5514,15126,13984,5663,Jharkhand,East,55.46,988.6
+20,520,Korwa,Total,35606,18000,17606,7948,10471,18162,4651,Jharkhand,East,37.86,978.11
+20,521,Lohra,Total,216226,109383,106843,39605,99240,99548,49611,Jharkhand,East,56.19,976.78
+20,522,Mahli,Total,152663,76631,76032,26547,68406,73303,41090,Jharkhand,East,54.24,992.18
+20,523,"Mal Paharia, Kumarbhag Paharia",Total,135797,67791,68006,28352,42581,66949,30107,Jharkhand,East,39.63,1003.17
+20,524,"Munda, Patar",Total,1229221,614199,615022,198980,644976,589735,313817,Jharkhand,East,62.6,1001.34
+20,525,"Oraon, Dhangar (Oraon)",Total,1716618,855210,861408,270861,968132,779699,415263,Jharkhand,East,66.96,1007.25
+20,526,Parhaiya,Total,25585,13070,12515,5826,6543,11696,3065,Jharkhand,East,33.11,957.54
+20,527,Santal,Total,2754723,1371168,1383555,461459,1165823,1324771,524628,Jharkhand,East,50.84,1009.03
+20,528,Sauria Paharia,Total,46222,22970,23252,9443,14607,23829,9636,Jharkhand,East,39.72,1012.28
+20,529,Savar,Total,9688,4864,4824,1952,2609,4672,1437,Jharkhand,East,33.73,991.78
+20,530,Bhumij,Total,209448,104910,104538,33229,99901,97397,37924,Jharkhand,East,56.69,996.45
+20,531,Kawar,Total,8145,4082,4063,1244,4438,4183,2237,Jharkhand,East,64.31,995.35
+20,532,Kol,Total,53584,27037,26547,10808,20422,23873,8652,Jharkhand,East,47.74,981.88
+21,500,All Schedule Tribes,Total,9590756,4727732,4863024,1520832,4215630,4769659,2330697,Odisha,East,52.24,1028.62
+21,501,"Bagata, Bhakta",Total,8813,4323,4490,1377,4007,3952,2069,Odisha,East,53.89,1038.63
+21,502,Baiga,Total,338,173,165,54,191,125,76,Odisha,East,67.25,953.76
+21,503,"Banjara, Banjari",Total,18257,9126,9131,2580,9763,8953,4405,Odisha,East,62.28,1000.55
+21,504,"Bathudi, Bathuri",Total,217395,106515,110880,25290,122398,111310,50530,Odisha,East,63.71,1040.98
+21,505,"Bhottada, Dhotada, Bhotra, Bhatra, Bhattara, Bhotora, Bhatara",Total,450771,222266,228505,80656,148154,233323,103628,Odisha,East,40.03,1028.07
+21,506,"Bhuiya, Bhuyan",Total,306129,151479,154650,40828,167507,146844,65152,Odisha,East,63.14,1020.93
+21,507,Bhumia,Total,125977,61360,64617,23388,43026,65331,30882,Odisha,East,41.94,1053.08
+21,508,"Bhumij, Teli Bhumij, Haladipokhria Bhumij, Haladi Pokharia Bhumija, Desi Bhumij, Desia Bhumij, Tamaria Bhumij",Total,283909,141270,142639,44179,124794,141635,67505,Odisha,East,52.06,1009.69
+21,509,Bhunjia,Total,12350,6139,6211,1811,4735,7100,2827,Odisha,East,44.93,1011.73
+21,510,"Binjhal, Binjhwar",Total,137040,68810,68230,18213,67921,74978,37894,Odisha,East,57.16,991.57
+21,511,"Binjhia, Binjhoa",Total,11419,5787,5632,1553,5707,4948,2787,Odisha,East,57.85,973.22
+21,512,Birhor,Total,596,289,307,107,231,291,195,Odisha,East,47.24,1062.28
+21,513,"Bondo Poraja, Bonda Paroja, Banda Paroja",Total,12231,5669,6562,2706,3478,6000,3108,Odisha,East,36.51,1157.52
+21,514,Chenchu,Total,13,6,7,2,6,9,9,Odisha,East,54.55,1166.67
+21,515,Dal,Total,25598,12626,12972,3931,9360,13185,6360,Odisha,East,43.2,1027.4
+21,516,Desua Bhumij,Total,404,201,203,53,200,174,54,Odisha,East,56.98,1009.95
+21,517,"Dharua, Dhuruba, Dhurva",Total,18151,8875,9276,3490,4602,9825,4062,Odisha,East,31.39,1045.18
+21,518,"Didayi, Didai Paroja, Didai",Total,8890,4175,4715,1948,2399,4830,2706,Odisha,East,34.56,1129.34
+21,519,"Gadaba, Bodo Gadaba, Gutob Gadaba, Kapu Gadaba, Ollara Gadaba,        Parenga Gadaba, Sano Gadaba",Total,84689,40953,43736,14642,27529,45311,25206,Odisha,East,39.3,1067.96
+21,520,Gandia,Total,1854,884,970,321,549,876,404,Odisha,East,35.81,1097.29
+21,521,Ghara,Total,195,99,96,20,125,83,57,Odisha,East,71.43,969.7
+21,522,"Gond, Gondo, Rajgond, Maria Gond, Dhur Gond",Total,888581,438624,449957,123567,456336,457458,221531,Odisha,East,59.65,1025.84
+21,523,Ho,Total,80608,39977,40631,16931,28524,37858,16654,Odisha,East,44.79,1016.36
+21,524,Holva,Total,28149,14006,14143,4582,11524,13788,7450,Odisha,East,48.9,1009.78
+21,525,Jatapu,Total,14890,7231,7659,2113,6033,8257,3913,Odisha,East,47.22,1059.19
+21,526,Juang,Total,47095,23093,24002,8064,16723,23902,9238,Odisha,East,42.85,1039.36
+21,527,Kandha Gauda,Total,26403,13318,13085,3875,12725,13255,6693,Odisha,East,56.49,982.5
+21,528,"Kawar, Kanwar",Total,5225,2627,2598,695,2919,2706,1364,Odisha,East,64.44,988.96
+21,529,"Kharia, Kharian, Berga Kharia, Dhelki Kharia, Dudh Kharia, Erenga Kharia, Munda Kharia, Oraon Kharia, Khadia, Pahari Kharia",Total,222844,109817,113027,29935,112776,111933,54760,Odisha,East,58.46,1029.23
+21,530,Kharwar,Total,2265,1122,1143,324,1213,784,435,Odisha,East,62.49,1018.72
+21,531,"Khond, Kond, Kandha, Nanguli Kandha, Sitha Kandha, Kondh, Kui, Buda Kondh, Bura Kandha, Desia Kandha, Dungaria Kondh,  Kutia Kandha,  Kandha Gauda,   Muli Kondh, Malua Kondh,  Pengo Kandha,  Raja Kondh,  Raj Khond",Total,1627486,790559,836927,265309,639492,833132,380031,Odisha,East,46.95,1058.65
+21,532,"Kisan, Nagesar, Nagesia",Total,331589,165079,166510,40595,186834,170649,88543,Odisha,East,64.21,1008.67
+21,533,Kol,Total,4058,2028,2030,712,1548,2002,1051,Odisha,East,46.26,1000.99
+21,534,"Kolah Loharas, Kol Loharas",Total,9558,4707,4851,1604,4190,4342,2272,Odisha,East,52.68,1030.59
+21,535,Kolha,Total,625009,310212,314797,129668,209182,287861,131818,Odisha,East,42.23,1014.78
+21,536,"Koli, Malhar",Total,6423,3268,3155,1047,3095,2932,1580,Odisha,East,57.57,965.42
+21,537,Kondadora,Total,20802,10222,10580,3098,8546,10501,6141,Odisha,East,48.27,1035.02
+21,538,"Kora, Khaira, Khayara",Total,54408,27173,27235,7486,32158,23906,13302,Odisha,East,68.54,1002.28
+21,539,Korua,Total,499,250,249,91,133,264,155,Odisha,East,32.6,996.0
+21,540,Kotia,Total,7232,3466,3766,1348,2610,3975,2373,Odisha,East,44.36,1086.56
+21,541,"Koya, Gumba Koya, Koitur Koya, Kamar Koya, Musara Koya",Total,147137,71014,76123,27504,35733,80288,46127,Odisha,East,29.87,1071.94
+21,542,Kulis,Total,13689,6854,6835,1528,9593,6651,4981,Odisha,East,78.88,997.23
+21,543,"Lodha, Nodh, Nodha, Lodh",Total,9785,4860,4925,1756,3459,4918,2815,Odisha,East,43.08,1013.37
+21,544,Madia,Total,2243,1106,1137,378,902,1233,796,Odisha,East,48.36,1028.03
+21,545,Mahali,Total,18625,9182,9443,2900,8057,9661,5461,Odisha,East,51.24,1028.43
+21,546,Mankidi,Total,31,12,19,3,10,15,6,Odisha,East,35.71,1583.33
+21,547,"Mankirdia, Mankria, Mankidi",Total,2222,1144,1078,514,361,1132,628,Odisha,East,21.14,942.31
+21,548,"Matya, Matia",Total,30169,15149,15020,4912,12894,14002,7904,Odisha,East,51.05,991.48
+21,549,"Mirdhas, Kuda, Koda",Total,75940,37757,38183,10128,41009,39096,21289,Odisha,East,62.31,1011.28
+21,550,"Munda, Munda Lohara, Munda Mahalis, Nagabanshi Munda, Oriya Munda",Total,558691,279211,279480,97939,253035,247690,133792,Odisha,East,54.92,1000.96
+21,551,Mundari,Total,25655,12725,12930,3773,13106,11675,6131,Odisha,East,59.89,1016.11
+21,552,"Omanatya, Omanatyo, Amanatya",Total,28736,14204,14532,5152,8553,15112,7514,Odisha,East,36.27,1023.09
+21,553,"Oraon, Dhangar, Uran",Total,358112,177457,180655,48556,209161,157772,84213,Odisha,East,67.57,1018.02
+21,554,Parenga,Total,9445,4532,4913,1743,2525,5778,3253,Odisha,East,32.78,1084.07
+21,555,"Paroja, Parja, Bodo Paroja, Barong Jhodia Paroja, Chhelia Paroja, Jhodia Paroja, Konda Paroja, Paraja, Ponga Paroja, Sodia Paroja, Sano Paroja, Solia Paroja",Total,374628,180122,194506,67589,107215,199885,101953,Odisha,East,34.92,1079.86
+21,556,Pentia,Total,10003,4870,5133,1732,3716,4971,2909,Odisha,East,44.93,1054.0
+21,557,Rajuar,Total,3518,1753,1765,503,1567,1881,698,Odisha,East,51.97,1006.85
+21,558,Santal,Total,894764,445700,449064,145364,416466,434579,194956,Odisha,East,55.57,1007.55
+21,559,"Saora, Savar, Saura, Sahara, Arsi Saora, Based Saora, Bhima Saora, Bhimma Saora,  Chumura Saora,  Jara Savar,  Jadu Saora, Jati Saora,  Juari Saora, Kampu Saora, Kampa Soura, Kapo Saora, Kindal Saora,   Kumbi Kancher Saora, Kalapithia Saora, Kirat Saora, Lanjia Saora,   Lamba Lanjia Saora, Luara Saora, Luar Saora, Laria Savar, Malia Saora,  Malla Saora, Uriya Saora,  Raika Saora, Sudda Saora, Sarda Saora,   Tankala Saora, Patro Saora, Vesu Saora",Total,534751,264364,270387,77319,251557,277857,156234,Odisha,East,54.99,1022.78
+21,560,"Shabar, Lodha",Total,516402,255184,261218,77265,233998,246582,129985,Odisha,East,53.29,1023.65
+21,561,Sounti,Total,112803,55759,57044,14797,58389,54596,26812,Odisha,East,59.58,1023.05
+21,562,"Tharua, Tharua Bindhani",Total,9451,4721,4730,1578,3971,4626,2252,Odisha,East,50.44,1001.91
+22,500,All Schedule Tribes,Total,7822902,3873191,3949711,1199092,3913827,4131903,2490127,Chhattisgarh,Central,59.09,1019.76
+22,501,Agariya,Total,67196,33384,33812,12555,25683,35335,17704,Chhattisgarh,Central,47.0,1012.82
+22,502,Andh,Total,21,12,9,3,17,10,10,Chhattisgarh,Central,94.44,750.0
+22,503,Baiga,Total,89744,44847,44897,18617,28872,47976,27357,Chhattisgarh,Central,40.59,1001.11
+22,504,Bhaina,Total,55975,27896,28079,7948,29070,30429,16616,Chhattisgarh,Central,60.53,1006.56
+22,505,"Bharia Bhumia, Bhuinhar Bhumia,  Bhumiya,  Bharia,  Paliha,  Pando",Total,113967,57370,56597,21714,44726,59597,30729,Chhattisgarh,Central,48.48,986.53
+22,506,Bhattra,Total,213900,105283,108617,35247,86998,107125,55486,Chhattisgarh,Central,48.7,1031.67
+22,507,"Bhil, Bhilala, Barela, Patelia",Total,547,303,244,74,367,234,191,Chhattisgarh,Central,77.59,805.28
+22,508,Bhil Mina,Total,71,47,24,9,54,35,31,Chhattisgarh,Central,87.1,510.64
+22,509,Bhunjia,Total,10603,5225,5378,1433,5400,6071,2978,Chhattisgarh,Central,58.89,1029.28
+22,510,"Biar, Biyar",Total,5525,2736,2789,1011,2711,2908,1268,Chhattisgarh,Central,60.06,1019.37
+22,511,Binjhwar,Total,119718,59653,60065,17124,62430,63845,37056,Chhattisgarh,Central,60.85,1006.91
+22,512,"Birhul, Birhor",Total,3104,1526,1578,579,984,1778,1084,Chhattisgarh,Central,38.97,1034.08
+22,513,"Damor, Damaria",Total,56,32,24,4,43,28,26,Chhattisgarh,Central,82.69,750.0
+22,514,Dhanwar,Total,50995,25723,25272,9220,17402,27674,14603,Chhattisgarh,Central,41.66,982.47
+22,515,"Gadaba, Gadba",Total,8535,4183,4352,1240,4459,4004,2331,Chhattisgarh,Central,61.12,1040.4
+22,516,"Gond, Arakh, Arrakh, Agaria, Asur,  Badi Maria,  Bada Maria,  Bhatola,  Bhimma,  Bhuta,  Koilabhuta,  Koliabhuti, Bhar, Bisonhorn Maria,  Chota Maria,   Dandami Maria,   Dhuru,   Dhurwa,   Dhoba,  Dhulia,   Dorla,   Gaiki, Gatta, Gatti,  Gaita, Gond Gowari,  Hill Maria,  Kandra, Kalanga, Khatola, Koitar, Koya, Khirwar, Khirwara, Kucha Maria, Kuchaki Maria, Madia, Maria, Mana, Mannewar, Moghya, Mogia, Monghya, Mudia, Muria, Nagarchi, Nagwanshi, Ojha, Raj, Sonjhari, Jhareka, Thatia, Thotya, Wade Maria, Vade Maria, Daroi  ",Total,4298404,2120974,2177430,663050,2060763,2281449,1398472,Chhattisgarh,Central,56.69,1026.62
+22,517,"Halba,Halbi",Total,375182,183877,191305,46435,250434,198615,139936,Chhattisgarh,Central,76.18,1040.4
+22,518,Kamar,Total,26530,13070,13460,4959,10292,14605,9884,Chhattisgarh,Central,47.71,1029.84
+22,519,Karku,Total,22,15,7,2,14,15,14,Chhattisgarh,Central,70.0,466.67
+22,520,"Kawar,  Kanwar, Kaur, Cherwa,  Rathia,  Tanwar,  Chattri",Total,887477,441242,446235,129330,508183,463254,278482,Chhattisgarh,Central,67.03,1011.32
+22,521,"Khairwar, Kondar",Total,79816,40165,39651,13240,40963,38670,20678,Chhattisgarh,Central,61.53,987.2
+22,522,Kharia,Total,49032,23975,25057,7169,23547,26087,16220,Chhattisgarh,Central,56.25,1045.13
+22,523,"Kondh, Khond, Kandh",Total,10991,5386,5605,1349,6236,5877,3689,Chhattisgarh,Central,64.68,1040.66
+22,524,Kol,Total,20873,10433,10440,3201,10305,9911,5862,Chhattisgarh,Central,58.31,1000.67
+22,525,Kolam,Total,402,210,192,75,205,207,134,Chhattisgarh,Central,62.69,914.29
+22,526,"Korku, Bopchi,  Mouasi, Nihal,  Nahul,  Bondhi,  Bondeya",Total,484,245,239,79,215,261,215,Chhattisgarh,Central,53.09,975.51
+22,527,"Korwa, Kodaku",Total,129429,64866,64563,26330,39851,71414,36126,Chhattisgarh,Central,38.65,995.33
+22,528,Majhi,Total,65027,32739,32288,11465,23630,35582,20166,Chhattisgarh,Central,44.12,986.22
+22,529,Majhwar,Total,55320,27613,27707,9685,17457,29942,15315,Chhattisgarh,Central,38.25,1003.4
+22,530,Mawasi,Total,203,114,89,37,84,123,51,Chhattisgarh,Central,50.6,780.7
+22,531,Munda,Total,15095,7653,7442,2400,7949,7392,4716,Chhattisgarh,Central,62.62,972.43
+22,532,"Nagesia, Nagasia",Total,114532,57536,56996,20365,48422,62102,33568,Chhattisgarh,Central,51.42,990.61
+22,533,"Oraon, Dhanka, Dhangad",Total,748789,373065,375724,104585,444061,395495,237030,Chhattisgarh,Central,68.93,1007.13
+22,534,Pao,Total,12729,6358,6371,2025,6574,6865,4159,Chhattisgarh,Central,61.42,1002.04
+22,535,"Pardhan, Pathari, Saroti",Total,11111,5479,5632,1520,6783,5308,3479,Chhattisgarh,Central,70.72,1027.92
+22,536,"Pardhi, Bahelia, Bahellia, Chita Pardhi, Langoli Pardhi, Phans Pardhi, Shikari, Takankar, Takia [in  (i) Bastar, Dantewara, Kanker, Raigarh, Jashpurnagar, Surguja and Koria district, (ii) Katghora, Pali, Kartala and Korba tahsils of    Korba district,  (iii) Bilaspur, Pendra, Kota and Takhatpur tahsils of     Bilaspur district,  (iv) Durg, Patan, Gunderdehi, Dhamdha, Balod, Gurur and  Dondilohara tahsils of Durg district, (v) Chowki, Manpur and Mohala Revenue Inspector Circles of  Rajnandgaon district, (vi) Mahasamund, Saraipali and    Basna tahsils of Mahasamund district, (vii)  Bindra-Navagarh Rajim and   Deobhog tahsils of Raipur district,  and (viii) Dhamtari, Kurud and Sihava tahsils of Dhamtari district]a",Total,13476,6667,6809,2350,5024,7672,5456,Chhattisgarh,Central,45.16,1021.3
+22,537,Parja,Total,1212,595,617,203,557,659,354,Chhattisgarh,Central,55.2,1036.97
+22,538,"Sahariya, Saharia, Seharia,  Sehria,  Sosia,  Sor",Total,165,92,73,29,110,85,74,Chhattisgarh,Central,80.88,793.48
+22,539,"Saonta, Saunta",Total,3502,1760,1742,738,912,1872,936,Chhattisgarh,Central,33.0,989.77
+22,540,Saur,Total,228,118,110,41,109,82,73,Chhattisgarh,Central,58.29,932.2
+22,541,"Sawar, Sawara",Total,130709,64769,65940,16873,74031,65071,39061,Chhattisgarh,Central,65.03,1018.08
+22,542,Sonr,Total,17,8,9,3,10,7,6,Chhattisgarh,Central,71.43,1125.0
+23,500,All Schedule Tribes,Total,15316784,7719404,7597380,2826880,6313661,7640148,4865027,Madhya Pradesh,Central,50.55,984.19
+23,501,Agariya,Total,41243,20706,20537,8435,14393,20598,11213,Madhya Pradesh,Central,43.87,991.84
+23,502,Andh,Total,137,70,67,26,90,54,49,Madhya Pradesh,Central,81.08,957.14
+23,503,Baiga,Total,414526,207588,206938,77881,158780,213150,103897,Madhya Pradesh,Central,47.17,996.87
+23,504,Bhaina,Total,6357,3192,3165,965,2990,3471,1889,Madhya Pradesh,Central,55.45,991.54
+23,505,"Bharia Bhumia, Bhuinhar Bhumia,  Bhumiya,  Bharia,  Paliha,  Pando",Total,193230,97574,95656,37299,74698,94826,44961,Madhya Pradesh,Central,47.9,980.34
+23,506,Bhattra,Total,1155,599,556,222,555,425,186,Madhya Pradesh,Central,59.49,928.21
+23,507,"Bhil, Bhilala, Barela, Patelia",Total,5993921,3016445,2977476,1217292,2014892,2977919,2156991,Madhya Pradesh,Central,42.18,987.08
+23,508,Bhil Mina,Total,2244,1194,1050,390,945,1129,858,Madhya Pradesh,Central,50.97,879.4
+23,509,Bhunjia,Total,1469,767,702,167,1165,524,478,Madhya Pradesh,Central,89.48,915.25
+23,510,"Biar, Biyar",Total,10452,5390,5062,2058,3897,4650,3087,Madhya Pradesh,Central,46.43,939.15
+23,511,Binjhwar,Total,15805,7766,8039,1990,9007,8818,5252,Madhya Pradesh,Central,65.2,1035.15
+23,512,"Birhul, Birhor",Total,52,27,25,7,40,14,13,Madhya Pradesh,Central,88.89,925.93
+23,513,"Damor, Damaria",Total,1815,936,879,350,744,809,510,Madhya Pradesh,Central,50.78,939.1
+23,514,Dhanwar,Total,2175,1109,1066,384,1188,1020,716,Madhya Pradesh,Central,66.33,961.23
+23,515,"Gadaba, Gadba",Total,578,295,283,89,377,210,165,Madhya Pradesh,Central,77.1,959.32
+23,516,"Gond, Arakh, Arrakh, Agaria, Asur, Badi Maria,  Bada Maria, Bhatola, Bhimma, Bhuta,  Koilabhuta, Koliabhuti,  Bhar, Bisonhorn Maria,  Chota Maria,  Dandami Maria, Dhuru, Dhurwa,  Dhoba,  Dhulia,  Dorla,  Gaiki,  Gatta,  Gatti, Gaita,           Gond Gowari, Hill Maria, Kandra, Kalanga, Khatola, Koitar, Koya, Khirwar, Khirwara, Kucha Maria, Kuchaki Maria, Madia, Maria, Mana, Mannewar, Moghya, Mogia, Monghya, Mudia, Muria, Nagarchi, Nagwanshi, Ojha, Raj, Sonjhari, Jhareka, Thatia, Thotya, Wade Maria, Vade Maria, Daroi",Total,5093124,2549973,2543151,802480,2579019,2625148,1532853,Madhya Pradesh,Central,60.11,997.32
+23,517,"Halba,Halbi",Total,14438,7148,7290,1654,10782,6419,4807,Madhya Pradesh,Central,84.34,1019.87
+23,518,Kamar,Total,666,333,333,106,403,290,143,Madhya Pradesh,Central,71.96,1000.0
+23,519,Karku,Total,265,156,109,27,123,143,114,Madhya Pradesh,Central,51.68,698.72
+23,520,"Kawar, Kanwar, Kaur, Cherwa,  Rathia,  Tanwar,  Chattri",Total,18603,9380,9223,2966,11214,8702,4871,Madhya Pradesh,Central,71.71,983.26
+23,521,"Khairwar, Kondar",Total,76097,39193,36904,15149,28789,34602,21554,Madhya Pradesh,Central,47.24,941.6
+23,522,Kharia,Total,2429,1258,1171,370,1253,1166,970,Madhya Pradesh,Central,60.85,930.84
+23,523,"Kondh, Khond, Kandh",Total,109,54,55,25,61,45,35,Madhya Pradesh,Central,72.62,1018.52
+23,524,Kol,Total,1167694,595338,572356,217578,480586,554362,301018,Madhya Pradesh,Central,50.58,961.4
+23,525,Kolam,Total,224,112,112,48,93,110,42,Madhya Pradesh,Central,52.84,1000.0
+23,526,"Korku, Bopchi, Mouasi, Nihal,  Nahul,  Bondhi,  Bondeya",Total,730847,372552,358295,138986,295211,372416,237529,Madhya Pradesh,Central,49.88,961.73
+23,527,"Korwa, Kodaku",Total,920,459,461,182,359,391,303,Madhya Pradesh,Central,48.64,1004.36
+23,528,Majhi,Total,50655,26513,24142,7091,31613,18449,14182,Madhya Pradesh,Central,72.57,910.57
+23,529,Majhwar,Total,443,226,217,55,305,150,129,Madhya Pradesh,Central,78.61,960.18
+23,530,Mawasi,Total,109180,55234,53946,21983,39013,53382,24883,Madhya Pradesh,Central,44.74,976.68
+23,531,Munda,Total,5041,2669,2372,892,2675,1948,1620,Madhya Pradesh,Central,64.47,888.72
+23,532,"Nagesia, Nagasia",Total,359,180,179,40,241,128,89,Madhya Pradesh,Central,75.55,994.44
+23,533,"Oraon, Dhanka, Dhangad",Total,28431,14275,14156,3659,20036,12501,10637,Madhya Pradesh,Central,80.88,991.66
+23,534,"Panika [in (i)Chhatarpur,  Panna,  Rewa,  Satna,  Shahdol,  Umaria, Sidhi and Tikamgarh districts c , and  (ii) Sevda and Datia tehsils of Datia district)]",Total,97767,49546,48221,15475,51840,45357,26991,Madhya Pradesh,Central,63.0,973.26
+23,535,Pao,Total,44312,21706,22606,7242,20202,23760,8990,Madhya Pradesh,Central,54.5,1041.46
+23,536,"Pardhan, Pathari, Saroti",Total,123742,62189,61553,16559,75347,61093,35163,Madhya Pradesh,Central,70.3,989.77
+23,537,"Pardhi, Bahelia,  Bahellia,  Chita Pardhi,  Langoli Pardhi,  Phans Pardhi,  Shikari,  Takankar,  Takia [in (i) Chhindwara,  Mandla,  Dindori and  Seoni districts, (ii) Baihar tehsil of Balaghat district, (iii) Betul,  Bhainsdehi and  Shahpur tahsils of Betul district, (iv) Patan tahsil and Sihora and Majholi blocks of Jabalpur disitrict,    (v) Katni (Murwara) and Vijaya Raghogarh tahsils and Bahoriband and Dhemerkheda blocks of Katni district,  (vi) Hoshangabad, Babai, Sohagpur, Pipariya and Bankhedi tahsils and Kesla block of Hoshangabad district, (vii) Narsinghpur district, and (viii) Harsud tahsil of Khandwa district]d",Total,5896,3029,2867,1121,2090,2794,1966,Madhya Pradesh,Central,43.77,946.52
+23,538,Parja,Total,137,70,67,27,55,66,41,Madhya Pradesh,Central,50.0,957.14
+23,539,"Sahariya, Saharia, Seharia,  Sehria,  Sosia,  Sor",Total,614958,316541,298417,139447,200243,276009,176812,Madhya Pradesh,Central,42.11,942.74
+23,540,"Saonta, Saunta",Total,190,113,77,25,69,113,72,Madhya Pradesh,Central,41.82,681.42
+23,541,Saur,Total,167340,86357,80983,34923,59877,78440,51275,Madhya Pradesh,Central,45.22,937.77
+23,542,"Sawar, Sawara",Total,881,464,417,179,396,387,191,Madhya Pradesh,Central,56.41,898.71
+23,543,Sonr,Total,12905,6644,6261,2798,4629,6004,3914,Madhya Pradesh,Central,45.8,942.35
